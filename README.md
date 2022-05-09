@@ -5,4 +5,4 @@ This is frontend of cowley farm(BNB staker fork)
 https://bnb.cropsfarmer.online/
 
 ## test server url
-http://nimble-marketing.000webhostapp.com/
+http://nimble-marketing.000webhostapp.com/ 
